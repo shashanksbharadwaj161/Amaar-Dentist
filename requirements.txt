@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+pydantic
+python-dotenv
+httpx
+pytz
+twilio
+google-api-python-client
+google-auth
+websockets
